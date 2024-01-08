@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay-Pande
-- 👀 I’m interested in working further in Electrical Engineering.
-- 🌱 I’m currently learning Electrical Engineering at Temple Univeristy.
+- 👀 I’m interested in working further in Computer Science.
+- 🌱 I’m currently learning coding skills at the College of Science and Technology at Temple University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
